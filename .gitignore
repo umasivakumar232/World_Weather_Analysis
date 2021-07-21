@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+# Add Config.py to gitignore
+config.py
+#Add Other files
+API_practice.ipynb
+random_numbers.ipynb
